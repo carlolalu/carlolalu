@@ -29,9 +29,9 @@ Mathematician and software developer working mainly in **Rust and C++** and with
 | Project | What it is | Stack |
 |---|---|---|
 | **[pdfunite-tree](https://github.com/carlolalu/pdfunite-tree)** | Merges every PDF in a directory tree into one file and builds a table of contents that mirrors the folder structure | Rust |
-| **[masterthesis-tuebingen](https://github.com/carlolalu/masterthesis-tuebingen)** | Master's thesis, double degree Tübingen / Trento — Derivation of effective equations for a stochastical model for chemotaxis | LaTeX |
-| **[mnist-neural-network](https://github.com/carlolalu/ANN--for-mnist)** | Feed-forward network built from scratch, following Nielsen's *Neural Networks and Deep Learning* | Python |
-| **[metapopulation-model](https://github.com/carlolalu/Metapopulation_growth_model)** | Simulation combining the Nakazawa and Vandermeer–Carvajal metapopulation models | MATLAB |
+| **[masterthesis-tuebingen](https://github.com/carlolalu/masters-thesis)** | Master's thesis, double degree Tübingen / Trento — Derivation of effective equations for a stochastical model for chemotaxis | LaTeX |
+| **[mnist-neural-network](https://github.com/carlolalu/mnist-neural-network)** | Feed-forward network built from scratch, following Nielsen's *Neural Networks and Deep Learning* | Python |
+| **[metapopulation-model](https://github.com/carlolalu/metapopulation-model)** | Simulation combining the Nakazawa and Vandermeer–Carvajal metapopulation models | MATLAB |
 <!-- to write when I merge the two repositories | **[rust-chat](https://github.com/carlolalu/rust-chat)** | One chat protocol, two implementations | Rust | -->
 
 ## Practice tracks
