@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 Mathematician and software engineer working mainly in **Rust, C++** and **Python**.
 
-- 📍Munich/Wien
-- **[carlolanziluciani@gmail.com](mailto:carlolanziluciani@gmail.com)** ·
-  [Carlo Lanzi Luciani](https://www.linkedin.com/in/carlo-lanzi-luciani/)
-- 🎓 MSc double degree — University of Tübingen × University of Trento
-- 🎓 BSc double degree — University of Trieste × University of Ljubljana
+- Munich/Wien
+- **[carlolanziluciani@gmail.com](mailto:carlolanziluciani@gmail.com)** · [Carlo Lanzi Luciani](https://www.linkedin.com/in/carlo-lanzi-luciani/)
+- MSc double degree — University of Tübingen × University of Trento
+- BSc double degree — University of Trieste × University of Ljubljana
 
 ## Selected work
 
