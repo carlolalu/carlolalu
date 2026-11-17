@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Carlo Lalu
 
-Mathematician and software developer working mainly in **Rust and C++** and with experience in **Python**.
+Mathematician and software engineer working mainly in **Rust, C++** and **Python**.
 
 - 📍Munich/Wien
 - **[carlolanziluciani@gmail.com](mailto:carlolanziluciani@gmail.com)** ·
